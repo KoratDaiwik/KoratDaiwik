@@ -6,13 +6,6 @@ Currently studying at **G.H. Patel College of Engineering & Technology**, I enjo
 
 ---
 
-## 📊 At a Glance
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KoratDaiwik&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KoratDaiwik&layout=compact&theme=default)
-
----
 
 ## 🛠️ Tech Stack
 
@@ -33,27 +26,6 @@ Git, GitHub, VS Code, Postman, Android Studio, MongoDB Compass
 
 ---
 
-## 🔧 Internship – MERN Stack (15 Days)
-
-Completed a hands-on internship focused on modern web development using the **MERN stack**, covering:
-
-### React (Frontend)
-- Built UIs using functional components, `useEffect`, routing
-- State management with **Context API** and **Redux Toolkit**
-- Form handling via **Formik & Yup**
-- UI feedback: Toastify, Hot-toast
-
-### Node.js + Express.js (Backend)
-- Built RESTful APIs with middleware and modular routing
-- Implemented JWT-based authentication
-- Email handling using **NodeMailer** & **EmailJS**
-
-### MongoDB
-- CRUD operations using **Mongoose**
-- Integrated APIs with database schemas
-
----
-
 ## 🤖 Machine Learning (Basic Foundation)
 
 - Supervised Learning: Linear Regression, k-NN, Decision Trees, Random Forest, SVM  
@@ -63,6 +35,19 @@ Completed a hands-on internship focused on modern web development using the **ME
 
 ---
 
+## 🔧 Internship – Summer Training at Webzeel Services Pvt. Ltd.
+
+Completed a 15-day summer training at **Webzeel Services Pvt. Ltd.**, where I worked under the guidance of industry developers using the **MERN stack**.
+
+The training focused on bridging the gap between classroom learning and real-world software development. I gained practical insight into:
+- Building scalable, production-ready web applications
+- Structuring projects with reusable and modular code
+- Writing clean, maintainable, and well-documented code
+- Understanding debugging workflows and security practices
+
+This experience helped me understand development standards used in the industry and sharpened my mindset toward building quality software systems.
+
+---
 ## 🎯 Interests
 
 - Scalable full-stack development  
@@ -77,4 +62,8 @@ Completed a hands-on internship focused on modern web development using the **ME
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daiwikkorat/)
 
 Always open to learning, collaborating, or building something impactful.
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KoratDaiwik&layout=compact&theme=default)
 
