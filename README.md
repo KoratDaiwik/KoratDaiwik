@@ -93,3 +93,4 @@ Completed a 15-day hands-on internship focused on building web applications usin
 # Contact
 
 If you’re working on something interesting or want to collaborate, feel free to connect. I'm always open to learning and contributing to meaningful projects.
+[LinkedIn](https://www.linkedin.com/in/daiwikkorat/)
