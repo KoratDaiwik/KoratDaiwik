@@ -37,7 +37,7 @@ Git, GitHub, VS Code, Postman, Android Studio, MongoDB Compass
 
 ## 🔧 Internship – Summer Training at Webzeel Services Pvt. Ltd.
 
-Completed a 15-day summer training at **Webzeel Services Pvt. Ltd.**, where I worked under the guidance of industry developers using the **MERN stack**.
+Completed a 21-day summer training at **Webzeel Services Pvt. Ltd.**, where I worked under the guidance of industry developers using the **MERN stack**.
 
 The training focused on bridging the gap between classroom learning and real-world software development. I gained practical insight into:
 - Building scalable, production-ready web applications
