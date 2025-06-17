@@ -2,100 +2,60 @@
 
 ### I'm Daiwik Korat — Final Year Computer Engineering Student
 
-Currently in my final year at **G.H. Patel College of Engineering & Technology**.  
-I enjoy exploring different areas of technology — from frontend and backend development to machine learning and systems thinking.
+Currently at **G.H. Patel College of Engineering & Technology**, I build clean, scalable solutions across front-end, back-end, and ML domains.
 
-I'm focused on writing clean, scalable code and building real-world solutions through continuous learning.
+---
+
+## 📊 At a Glance
+
+![Daiwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daiwikkorat&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daiwikkorat&layout=compact&theme=default)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages  
-C, C++, C#, Python, Java (Advanced), JavaScript, PHP
-
-### 🎨 Frontend  
-- **React.js** (functional components, routing, hooks, Context API, Redux Toolkit)  
-- **React Native** (cross-platform mobile development)  
-- **Tailwind CSS**, **Formik & Yup** (form validation)  
-- Utility libraries: **Lodash**, **Toastify**, **Hot-toast**
-
-### 🔧 Backend  
-- **Node.js** (asynchronous backend development)  
-- **Express.js** (RESTful APIs, middleware, routing)  
-- **JWT** (authentication, token-based security)  
-- **EmailJS**, **NodeMailer** (OTP verification, SMTP)
-
-### 🗃️ Databases  
-- **MongoDB** (NoSQL)  
-- **Mongoose** (ODM)  
-- **MySQL** (Relational DBMS)
-
-### 🧰 Tools  
-Git, GitHub, VS Code, Postman, MongoDB Compass, Android Studio
+**Languages:** C, C++, C#, Python, Java, JavaScript, PHP  
+**Frontend:** React.js, React Native, Tailwind CSS, Formik & Yup, Lodash, react-toastify  
+**Backend:** Node.js, Express.js, JWT, EmailJS, Nodemailer  
+**Databases:** MongoDB (Mongoose), MySQL  
+**Tools:** Git, VS Code, Postman, Android Studio, MongoDB Compass
 
 ---
 
+## 🧑‍💻 Internship — Full Stack MERN (15 Days)
 
-## 🤖 Machine Learning Highlights
+### React Frontend
+- Built responsive UIs using functional components, hooks, routing, Context API, Redux Toolkit
+- Handled API calls, form validation, and UI feedback with Lodash, Formik/Yup, and toast libraries
 
-- Supervised Learning: Linear Regression, Decision Tree, k-NN, Random Forest, SVM  
-- Unsupervised Learning: K-Means Clustering  
-- Core ML Pipeline: Data Preprocessing, Model Training, Evaluation  
-- Exposure to Neural Networks and Inference Systems  
-- Focused on building simple, interpretable models using real-world data
+### Node.js & Express Backend
+- Developed RESTful APIs with JWT-based authentication
+- Integrated OTP/email workflows using EmailJS and Nodemailer
+- Leveraged middleware and modular routing
 
----
+### MongoDB & Mongoose
+- Designed schemas and performed CRUD operations with real-time database integration
 
-## 🧑‍💻 Internship Experience — Full Stack MERN Internship
-
-Completed a 15-day hands-on internship focused on the **MERN stack**, working on both frontend and backend development with modern tools and architecture.
-
-### 📦 React (Frontend)
-- Built responsive UIs using **React.js**
-- Used functional components, routing, Context API, Redux Toolkit
-- Fetched API data with `useEffect`
-- Form validation using **Formik** + **Yup**
-- Styled components with **Tailwind CSS**
-- Enhanced UX with **react-toastify**, **react-hot-toast**, **Lodash**
-
-### ⚙️ Node.js & Express.js (Backend)
-- Developed REST APIs with **Node.js** + **Express.js**
-- Implemented authentication using **JWT**
-- Integrated **EmailJS** and **NodeMailer** for OTP/email verification
-- Applied middleware, routing, and modular backend structure
-
-### 🗂️ MongoDB & Mongoose
-- Built schemas and performed full CRUD using **MongoDB**
-- Used **Mongoose** for schema modeling and DB integration
-
-### 🔍 Concepts & Practices
-- In-depth study of **JS fundamentals** (hoisting, `const`/`let`, immutability)
-- Introduced to **MVC architecture** and real-world project structure
-- Exposure to scalable full-stack application design
+### Core Practices
+- Strong grounding in JS fundamentals (hoisting, immutability)
+- Adhered to MVC structure and scalable best practices
 
 ---
 
-## 🎯 Interests
+## 🤖 Machine Learning Overview
 
-- Cross-platform development with React Native  
-- Full-stack product engineering  
-- Practical ML implementation  
-- Scalable and clean UI/UX  
-- Continuous learning through real-world projects
+- **Supervised:** Linear Regression, Decision Tree, k-NN, Random Forest, SVM  
+- **Unsupervised:** K-Means Clustering  
+- **Core Pipeline:** Data processing → model training → evaluation  
+- Basic exposure to neural networks and model interpretability techniques
 
 ---
 
-
-
-## 📬 Contact
+## 🔗 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/daiwikkorat/)
 
-Feel free to connect if you're working on something exciting — I'm always open to learning and collaboration.
+---
 
-## 📊 GitHub Activity Overview
-
-![Daiwik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daiwikkorat&show_icons=true&theme=github_dark&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiwikkorat&layout=compact&theme=github_dark&hide_title=true)
