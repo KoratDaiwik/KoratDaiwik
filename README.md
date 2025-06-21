@@ -13,10 +13,10 @@ Currently studying at **G.H. Patel College of Engineering & Technology**, I enjo
 C, C++, C#, Python, Java, JavaScript, PHP
 
 **Frontend**  
-React.js, React Native, Tailwind CSS, Formik & Yup, Lodash, Toastify
+React.js, React Native, HTML, CSS, TailWindCSS
 
 **Backend**  
-Node.js, Express.js, JWT (Auth), EmailJS, NodeMailer
+Node.js, Express.js
 
 **Databases**  
 MongoDB (Mongoose), MySQL
@@ -50,10 +50,9 @@ This experience helped me understand development standards used in the industry 
 ---
 ## 🎯 Interests
 
-- Scalable full-stack development  
-- Practical machine learning use-cases  
-- Cross-platform mobile development  
-- Clean UI, real-world project architecture
+- Scalable full-stack Web & App development  
+- Machine learning 
+- Real-world project architecture
 
 ---
 
